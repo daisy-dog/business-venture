@@ -6,3 +6,4 @@ MAJOR MILESTONES:
 -- Product development process launched 
 -- Hiring and forming the hr, administrative, and purchase dept.
 -- Admin purchases office stationary. Purchase dept purchases equipment, e.g. computers and printers.
+-- We have developed and MVP (minimum viable product) for demo
